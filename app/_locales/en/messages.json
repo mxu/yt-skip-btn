@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "yt skip btn",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "global skip button for youtube",
+    "description": "The description of the application"
+  }
+}
